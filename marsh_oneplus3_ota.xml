@@ -11,10 +11,6 @@
 				id="xda"
 				title="XDA Thread"
 				description="Visit Our XDA Thread">http://forum.xda-developers.com/oneplus-3/development/rom-t3412194</XDAThreadURL>
-			<RRChangelogUrl
-				id="changelog"
-				title="Resurrection Remix Changelog"
-				description="View ROM Changelog (Not Device Related Stuff)">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</RRChangelogUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="OpenGApps"
