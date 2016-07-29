@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<oneplus3>
-			<Filename>cm-13.0-20160718-MARSH-2.0.2-oneplus3.zip</Filename>
+			<Filename>cm-13.0-20160729-MARSH-2.0.2-oneplus3.zip</Filename>
 				<BuildsUrl 
 					id="builds" 
-					title="Latest Stable/Test Build" 
-					description="Download Latest Build (Test/Stable)">https://www.androidfilehost.com/?fid=24591000424948338</BuildsUrl>
+					title="Latest Stable Build" 
+					description="Download Latest Build (Stable)">https://www.androidfilehost.com/?fid=24591000424948338</BuildsUrl>
 				<XDAThreadURL
 					id="xda"
 					title="XDA Thread"
