@@ -6,7 +6,7 @@
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 # * Chances are you only need to change the ota_url in this file
 #
-ota_url=https://raw.githubusercontent.com/flo071/OTA/marshmallow/marsh_ota.xml
+ota_url=https://raw.githubusercontent.com/flo071/OTA/cm-14.0/cm-14.0_ota.xml
 release_type=Stable
 device_name=ro.cm.device
 
@@ -17,7 +17,7 @@ device_name=ro.cm.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.cm.version' : Parse the date 20160718 from 'cm-13.0-20160718-MARSH-2.0.2-oneplus3'
+# Example with a property key 'ro.cm.version' : Parse the date 20160718 from 'cm-14.0-20161006-UNOFFICIAL-oneplus3'
 #
 # Version source: ro.cm.version
 # Version delimiter: -
