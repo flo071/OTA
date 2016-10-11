@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>cm-14.0 (CM)</RomName>
-  <VersionName>cm-14.0-20161006-UNOFFICIAL-oneplus3</VersionName>
+  <VersionName>cm-14.0-20161011-UNOFFICIAL-oneplus3</VersionName>
   <VersionNumber type="integer">20161006</VersionNumber>
   <DirectUrl nil="true" />
   <HttpUrl>https://www.androidfilehost.com/?fid=385035244224383041</HttpUrl>
@@ -11,7 +11,7 @@
   <Developer>flo071</Developer>
   <WebsiteURL>forum.xda-developers.com/oneplus-3/development/rom-t3454940</WebsiteURL>
   <DonateURL>https://paypal.me/flo071</DonateURL>
-  <Changelog>### Changelog 20161006
+  <Changelog>### Changelog 20161011
 * 
 * 
 * 
